@@ -21,4 +21,4 @@ This project is a simple public API built with Java (Spring Boot) for the HNG12 
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/SmashRex/simple_backend_api.git
