@@ -24,7 +24,7 @@ public class ApiController {
 
         response.put("current_datetime", currentDatetime);
 
-        response.put("github url", "https://github.com/SmashRex/your-repo");
+        response.put("github url", "https://github.com/SmashRex/simple_backend_api.git");
 
 
         return response;
