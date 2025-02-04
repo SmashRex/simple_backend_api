@@ -35,7 +35,7 @@ This project is a simple public API built with Java (Spring Boot) for the HNG12 
 
    mnv spring-boot :run
 
-5. **Access the API"
+5. **Access the API**
    
    Open any browser and enter
    
